@@ -1,0 +1,1 @@
+# cookiecutter-personal_sz
